@@ -1,2 +1,1 @@
-# README
-Ruby on Rails,Turbo,Bootstrap.
+#Ruby on Rails,Turbo,Bootstrap.
